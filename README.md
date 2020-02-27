@@ -1,6 +1,9 @@
 # brew_crew
 
-A new Flutter project.
+## A Flutter Project
+Brew that Coffee. Register and store the way you like your coffee.
+
+Based on [this](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB) tutorial
 
 ## Getting Started
 
